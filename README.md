@@ -35,11 +35,11 @@ permitted provided that the above copyright notice, this list of
 conditions and the following disclaimer are retained.
 
 Any publication resulting from the use of this work must cite the
-following publication:
+following publication::
 
-  Expertise in Social Networks: How Do Experts Differ From Other Users?
-  Benjamin D. Horne, Dorit Nevo, Jesse Freitas, Heng Ji & Sibel Adali,
-  ICWSM 2016.
+    Expertise in Social Networks: How Do Experts Differ From Other Users?
+    Benjamin D. Horne, Dorit Nevo, Jesse Freitas, Heng Ji & Sibel Adali,
+    ICWSM 2016.
 
 THIS DATASET IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
 "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
