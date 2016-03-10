@@ -1,4 +1,7 @@
-# expertisedataset
+
+The latest version of this dataset can be found in:
+
+https://github.com/rpitrust/expertisedataset/
 
 Heuristics for Identifying Experts in Twitter
 ---------------------------------------------
@@ -22,7 +25,6 @@ Files:
 -------
 
 - user_features.csv: the features for each user groups
-- features.txt: the text file describing the features
 
 
 Copyright (c) 2016, Benjamin D. Horne, Dorit Nevo, Jesse Freitas, Heng
