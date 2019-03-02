@@ -1,0 +1,71 @@
+userid,unique identifier for user
+utype,category of user (expert or not)
+domain,topic of user expertise or interest
+followers,number of followers on Twitter
+friends,number of friends on Twitter
+total_tweets,total number of tweets during time frame
+years,number of years the users Twitter account has existed
+per_rt,percent of tweets that are retweets
+chars,average number of characters per original tweet
+chars_rt,average number of characters per retweet
+commas,average number of commas per original tweet
+commas_rt,average number of commas per retweet
+periods,average number of periods per original tweet
+periods_rt,average number of periods per retweet
+quesmark,average number of question marks per original tweet
+quesmark_rt,average number of question marks per retweet
+exmark,average number of exclaimation marks per original tweet
+exmark_rt,average number of exclaimation marks per retweet
+colon,average number of colons per original tweet
+colon_rt,average number of colons per retweet
+semi,average number of semi-colons per original tweet
+semi_rt,average number of semi-colons per retweet
+punc,average number of punctuations per original tweet
+punc_rt,average number of punctuations per retweet
+tagpermsg,average number of hashtags per original tweet
+tagpermsg_rt,average number of hashtags per retweet
+mentpermsg,average number of mentions per original tweet
+mentpermsg_rt,average number of mentions per retweet
+urlpermsg,average number of urls per original tweet
+urlpermsg_rt,average number of urls per retweet
+percent_msgwithment,percent of original tweets that have at least 1 mention
+percent_msgwithment_rt,percent of retweets that have at least 1 mention
+percent_msgwithtag,percent of originaltweets that have at least 1 hashtag
+percent_msgwithtag_rt,percent of retweets that have at least 1 hashtag
+percent_msgwithurl,percent of original tweets that have at least 1 url
+percent_msgwithurl_rt,percent of retweets that have at least 1 url
+first,average number of first person terms per tweet
+verb_phrase,average number of verb phrases per tweet
+noun_phrase,average number of noun phrases per tweet
+interj,average number of interjections per tweet
+stopwords,average number of stopwords per tweet
+slang,average number of slang words per tweet
+sentiment,average number of sentiment terms per tweet
+entity,average number of named entities per tweet
+active_vb,average number of active verbs per tweet
+modal_vb,average number of model verbs per tweet
+negative_vb,average number of negative verbs per tweet
+dt,average number of definite articles per tweet
+num_en,number of English tweets
+org_avg_d,average depth of syntax tree for original tweets
+org_med,median depth of syntax tree for original tweets
+org_avg_d_np,average depth of noun phrase sub-syntax tree for original tweets
+org_med_np,median depth of noun phrase sub-syntax tree for original tweets
+org_avg_d_vp,average depth of verb phrase sub-syntax tree for original tweets
+org_med_vp,median depth of verb phrase sub-syntax tree for original tweets
+pot_org,percent of tweets that are original
+rt_avg_d,average depth of syntax tree for retweets
+rt_med,median depth of syntax tree for retweets
+rt_avg_d_np,average depth of noun phrase sub-syntax tree for retweets
+rt_med_np,median depth of noun phrase sub-syntax tree for retweets
+rt_avg_d_vp,average depth of verb phrase sub-syntax tree for retweets
+rt_med_vp,median depth of verb phrase sub-syntax tree for retweets
+pot_rt,percent of tweets that are retweets
+lexco,lexical coherence of user
+glowbe_glowbe_dist_minval,fluency (how specialized the language is) of least common word used using GLOWBE lexicon for original tweets (vector distance)
+glowbe_glowbe_dist_min3val,fluency (how specialized the language is)  of least common 3 words used using GLOWBE lexicon for original tweets (vector distance)
+glowbe_glowbe_dist_minval_rt,fluency (how specialized the language is)  of least common word used using GLOWBE lexicon for retweets (vector distance)
+glowbe_glowbe_dist_min3val_rt,fluency (how specialized the language is)  of least common 3 words used using GLOWBE lexicon for retweets (vector distance)
+glowbe_us_count_minval,fluency (how specialized the language is)  of least common word used using United States GLOWBE lexicon for original tweets (number of documents least common word appeared in)
+glowbe_us_count_min3val,fluency (how specialized the language is)  of least common 3 words used using United States GLOWBE lexicon for original tweets (number of documents least common word appeared in)
+ topic_coherence,topic coherence of user
